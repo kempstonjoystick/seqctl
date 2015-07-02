@@ -116,6 +116,6 @@ int main(int argc, char **argv)
 
 	//TODO wait for response message - different queue, timeout
 
-	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
+	cout << "Command sent." << endl; // prints !!!Hello World!!!
 	return 0;
 }
