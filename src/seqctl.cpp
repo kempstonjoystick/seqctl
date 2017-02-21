@@ -3,7 +3,7 @@
 // Author      : Tim Shearer
 // Version     :
 // Copyright   : 
-// Description : Hello World in C++, Ansi-style
+// Description : Generate control messages to termSeq Terminal Sequencer
 //============================================================================
 
 #include <iostream>
